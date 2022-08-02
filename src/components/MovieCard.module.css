@@ -1,0 +1,28 @@
+.wrapper {
+  width: 160px;
+  margin: 20px 10px;
+  /* display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center; */
+  overflow: hidden;
+  text-align: left;
+}
+
+.image {
+  width: 160px;
+  height: 250px;
+  border-radius: 10px;
+  box-shadow: 0 0.4rem 0.8rem hsl(0deg 0% 100% / 25%);
+}
+
+.year {
+  font-size: 16px;
+  margin: 5px 0;
+}
+.stars {
+  color: #a244ff;
+}
+.title {
+  font-size: 18px;
+}
